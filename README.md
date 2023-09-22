@@ -1,3 +1,3 @@
 # gitDemo
-This is me Akshu. <br><br>
+This is me Akshu. <br>
 Author- Akanksha Dhanwal.
