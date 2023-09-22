@@ -1,3 +1,3 @@
 # gitDemo
 <i>This is me Akshu.</i> <br>
-Author- Akanksha Dhanwal.
+Author- Akanksha Dhanwal.(IET-DAVV)
